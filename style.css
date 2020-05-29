@@ -1,0 +1,120 @@
+/* html {
+  scroll-behavior: smooth;
+} */
+.font{
+  font-family: 'Permanent Marker', cursive;
+}
+.font1 {
+  font-family: 'Righteous', cursive;
+}
+
+.font2 {
+  font-family: 'Audiowide', cursive;
+}
+
+.atas {
+  margin-top: 55px;
+}
+
+hr {
+  width: 220px;
+  border-top: 3px solid black;
+}
+
+.patop {
+  padding-top: 20px;
+}
+
+.foto {
+  width: 100%;
+}
+
+/* Desktop Version */
+@media (min-width: 768px) {
+  .font{
+    font-family: 'Permanent Marker', cursive;
+  }
+  .font1 {
+    font-family: 'Righteous', cursive;
+  }
+
+  .font2 {
+    font-family: 'Audiowide', cursive;
+  }
+
+  .gambar {
+    height: 620px;
+  }
+
+  .atas {
+    margin-top: 50px;
+  }
+
+  hr {
+    width: 220px;
+    border-top: 3px solid black;
+  }
+
+  .skill {
+    width: 620px;
+    border-top: 3px solid black;
+  }
+
+  .warna {
+    /* background: linear-gradient(to right, #007BFF, #28A745); */
+    background-color: black;
+  }
+
+  .ski {
+    background: linear-gradient(to right, #007BFF, rgb(64, 210, 230));
+    
+  }
+  .sip{
+    background: linear-gradient(to right, #007BFF, rgb(64, 211, 229));
+  }
+
+  .sha {
+    text-shadow: 1px 1px black;
+  }
+
+  .ukuranfont {
+    font-size: 20px;
+  }
+  /*footer*/
+  .footer{
+    background: rgb(33, 34, 114));
+  }
+/*sosial meedia*/
+  .fa-facebook{
+    color: #007BFF;
+  }
+  
+  .fa-facebook:hover{
+    color: #007BFF;
+  }
+  
+  .fa-whatsapp {
+    color: rgb(62, 255, 14);
+  }
+  
+  .fa-wkatsapp:hover {
+    color: rgb(9, 231, 46);
+  }
+  
+  .fa-instagram {
+    color: #A73A97;
+  }
+  
+  .fa-instagram:hover {
+    color: #A73A97;
+  }
+  
+  .fa-youtube-play:hover {
+    color: red;
+  }
+  
+  .fa-youtube-play {
+    color: red;
+  }
+  
+}
